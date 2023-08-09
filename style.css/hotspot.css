@@ -1,0 +1,139 @@
+body{
+    height: 80vh;
+    width: auto;
+    background-color: burlywood;
+}
+#item-1 {
+    height: 5vh;
+    width: auto;
+    /* border: thin solid red; */
+    background-color: brown;
+      
+}
+#item-1 h2 {
+    margin-left: 10em;
+    margin-top: -0.1em;
+    color: yellow;
+    align-items: center;
+
+}
+#item-2 marquee h2 {
+    height: 5vh;
+    width: 150vh;
+    /* border: thin solid red; */
+    background-color: brown;
+    margin-top: 0.5em;
+    color: yellow;
+}
+#service {
+    margin-top: 7em;
+    margin-left: 43em;
+    color: brown;
+    /* font-weight: bold; */
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#tables {
+    height: 100vh;
+    width: auto;
+    /* border: thin solid red; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 1em;
+    margin-top: 1em;
+}
+#table-1 {
+    height: 30vh;
+    width: 60vh;
+    /* border: thin solid blue; */
+    margin-top: 2em;
+}
+#table-2 {
+    height: 82vh;
+    width: 45vh;
+    border: thick solid brown;
+    background-color: white;
+}
+#item-26 {
+    height: 20vh;
+    width: 32vh;
+    border: thin solid brown;
+    margin-top: 5em;
+    margin-left: 2.8em;
+    background-color: burlywood;
+}
+center button #butt{
+    background-color: brown;
+    margin-top: 1em;
+    cursor: pointer;
+    color: burlywood;
+}
+a{
+    color: black;
+    background-color: white;
+    cursor: pointer;
+}
+#item-27 {
+    height: 45vh;
+    width: 50vh;
+    /* border: thin solid brown; */
+    margin-top: 0.5em;
+    margin-left: 1em;
+}
+img {
+    height: 55vh;
+    width: 65vh;
+    margin-left: -5em;
+    margin-top: -2.5em;
+}
+#table-3 {
+    height: 60vh;
+    width: 50vh;
+    /* border: thin solid blue; */
+    margin-top: 7em;
+}
+#table-4 {
+    height: 35vh;
+    width: 65vh;
+    /* border: thin solid blue; */
+    margin-top: -25em;
+}
+#head-2 {
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+table{
+    color: brown;
+}
+#item-3{
+    color: brown;
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}   
+#item-4, #item-5, #item-6, #item-7, #item-8, #item-9 {
+    color: black;
+}
+#item-10, #item-11, #item-12 {
+    height: 4vh;
+    margin-top: 0.6em;
+    font-weight: bold;
+}
+#item-13, #item-14,#item-15,#item-16,#item-17, #item-18{
+    color: black;
+}
+#item-19{
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#item-20, #item-21, #item-22, #item-23, #item-24, #item-25 {
+    color: black;
+}
+#item-28 {
+    color: brown;
+    margin-top: -7em;
+    margin-left: 4em;
+}

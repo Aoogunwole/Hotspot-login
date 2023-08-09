@@ -1,0 +1,15 @@
+p{
+    margin-top: 18em; 
+    margin-left: 43em;
+}
+table {
+    margin-top: 1em;
+    position: sticky;
+    /* margin-bottom: 40em; */
+    
+}
+button{
+    margin-left: 55em;
+    margin-top: 1em;
+    cursor: pointer;
+}
